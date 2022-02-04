@@ -9,8 +9,7 @@ Take a look around and please be nice.
 - My first android app was made with phonegap  yep it was long time ago, dark times.
 - My daily driver  macOS.
 - I love Battle Royale games.
-- If you wanna reach me
-- My email address is in the side bar.
+- If you wanna reach me my email address is in the side bar.
 - I'm dog lover (Westie lover)
 ```
 
